@@ -5,3 +5,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Dingetje
+- [ ] Dingetje 2
+- [x] dingetje 3
